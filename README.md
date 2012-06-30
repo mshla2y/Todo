@@ -32,3 +32,9 @@ How to help ?
 1. You could encourage me with a fork or watching the repo.
 2. visit my blog on http://www.blazeboy.me
 3. follow me on @blaz_boy
+
+TODO
+-------------
+projects[categories]
+date
+improve ui
