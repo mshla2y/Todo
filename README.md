@@ -35,6 +35,6 @@ How to help ?
 
 TODO
 -------------
-projects[categories]
-date
-improve ui
+1.projects[categories]
+2.date
+3.improve ui
